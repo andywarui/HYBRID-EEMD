@@ -1,2 +1,2 @@
-# Hybrid-EEMD-2-
- A hybrid EEMD-time series algorithm method for predicting parking availability prediction.
+# Hybrid-EEMD
+ A hybrid EEMD-time series algorithm method used for parking availability prediction in the city of Melbourne, Australia.
