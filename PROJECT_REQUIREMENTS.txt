@@ -1,0 +1,13 @@
+Project Name: Available parking prediction algorithm for smart parking using mobile deep learning
+Language: Python
+Environment : JupyterLab
+A hybrid EEMD-time series algorithm method for predicting parking availability prediction. Data will first run in EEMD then time series algorithm(like: lstm, svm, random forest etc. Whole code need to write using TensorFlow. Also need to know TensorFlow-lite because using TensorFlow-lite need to compress the model and deploy it in an app. I will provide the android app. 
+Dataset: “On-street_Car_Parking_Sensor_Data_-_2017”; 35.9 million records of 2017 on-street car parking in Melbourne city.
+Dataset 1:
+https://data.melbourne.vic.gov.au/Transport/On-street-Car-Parking-Sensor-Data-2017/u9sa-j86i
+Dataset 2: week days dataset.
+
+Extra: 1.I will give 4/5 papers for reference. Need to improve accuracy.
+2. The main focus of my project is to create a hybrid model. EEMD with time series algorithm.
+3. Need to find which time series algorithm work better with eemd and the accuracy rate must be better than my given research paper.
+4. Need to give a detailed documentation of the project.
